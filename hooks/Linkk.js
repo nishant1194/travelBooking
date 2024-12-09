@@ -1,0 +1,1 @@
+export default Linkk = "https://travel-booking-steel.vercel.app" 
